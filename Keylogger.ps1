@@ -1,6 +1,6 @@
 # Edit only this section!
 $TimesToRun = 1
-$RunTimeP = 3
+$RunTimeP = 5
 $From = "annisadwiayur@gmail.com"
 $Pass = "tugasakhir"
 $To = "tugasakhir.annisa@gmail.com"
