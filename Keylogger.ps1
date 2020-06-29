@@ -1,5 +1,5 @@
 # Edit only this section!
-$TimesToRun = 2
+$TimesToRun = 1
 $RunTimeP = 1
 $From = "annisadwiayur@gmail.com"
 $Pass = "tugasakhir"
